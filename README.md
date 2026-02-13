@@ -95,8 +95,9 @@ This alignment maximizes pitcher strengths against hitter weaknesses to improve 
 
 ## Visualizations
 
+
 ### Pitch Mix Evolution
-![Pitch Mix](visuals/pitch_mix_2024_2025.png)
+![Pitch Mix](visuals/pitch_B_mix_2024_2025.png)
 
 ### Pitcher Whiff% by Pitch Type (2025)
 ![Pitcher Whiff](visuals/pitcherB_whiff_2025.png)
