@@ -103,7 +103,7 @@ This alignment maximizes pitcher strengths against hitter weaknesses to improve 
 ![Pitcher Whiff](visuals/pitcherB_whiff_2025.png)
 
 ### Hitter Whiff% by Pitch Type (2025)
-![Hitter Whiff](visuals/playerA_whiff_2025.png)
+![Hitter Whiff](visuals/    playerA_whiff_2025.png..png)
 
 ### Sweeper Location Map
 ![Sweeper Location](visuals/pitcherB_sweeper_location_2025.png)
