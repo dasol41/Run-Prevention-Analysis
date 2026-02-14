@@ -97,17 +97,17 @@ This alignment maximizes pitcher strengths against hitter weaknesses to improve 
 
 
 
-### Pitch Mix Evolution
-![Pitch Mix](visuals/pitch_B_mix_2024_2025.png)
+### Pitcher B Pitch Mix by Season (2024 vs 2025)
+![Pitcher B pitch mix (2024 vs 2025)](visuals/pitch_B_mix_2024_2025.png)
 
-### Pitcher Whiff% by Pitch Type (2025)
-![Pitcher Whiff](visuals/pitcherB_whiff_2025.png)
+### Pitcher B Whiff% per Swing by Pitch Type (2025)
+![Pitcher B whiff% per swing by pitch type (2025)](visuals/pitcherB_whiff_2025.png)
 
-### Hitter Whiff% by Pitch Type (2025)
-![Hitter Whiff](visuals/playerA_whiff_2025.png)
+### Player A Whiff% per Swing by Pitch Type (2025)
+![Player A whiff% per swing by pitch type (2025)](visuals/playerA_whiff_2025.png)
 
-### Sweeper Location Map
-![Sweeper Location](visuals/pitcherB_sweeper_location_2025.png)
+### Pitcher B Sweeper Location Distribution (2025)
+![Pitcher B sweeper location distribution (2025)](visuals/pitcherB_sweeper_location_2025.png)
 
 ---
 
